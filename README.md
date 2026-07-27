@@ -90,7 +90,7 @@ TerraWeave-Business-Analysis-Case-Study/
 ├── data/
 │   └── sales_data.csv
 │
-├── process_maps/
+├── process_flow/
 │   ├── as_is_process.svg
 │   └── to_be_process.svg
 │
