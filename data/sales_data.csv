@@ -1,0 +1,161 @@
+Order ID,Date,Product,Category,Export Country,Quantity,Unit Price (USD),Revenue (USD),Order Status
+TW-1005,2025-01-04,Jute Area Rug,Rugs,Japan,53,48.27,2558.31,Delivered
+TW-1021,2025-01-06,Block-Print Table Runner,Table Linen,Japan,97,20.29,1968.13,In Production
+TW-1003,2025-01-16,Handwoven Cushion Cover,Cushions,United Kingdom,74,14.99,1109.26,Shipped
+TW-1105,2025-01-16,Jute Area Rug,Rugs,United Kingdom,12,51.56,618.72,Delivered
+TW-1062,2025-01-21,Nakshi Kantha Throw,Throws,United Kingdom,41,70.42,2887.22,Delivered
+TW-1146,2025-01-21,Jute Area Rug,Rugs,United States,93,49.85,4636.05,Delivered
+TW-1083,2025-01-24,Jute Area Rug,Rugs,Canada,88,53.76,4730.88,Delivered
+TW-1019,2025-01-25,Handwoven Cushion Cover,Cushions,United Kingdom,30,15.52,465.60,Delivered
+TW-1087,2025-01-26,Seagrass Basket Set,Storage,United Kingdom,118,27.28,3219.04,Delivered
+TW-1104,2025-01-27,Nakshi Kantha Throw,Throws,United Kingdom,18,71.91,1294.38,Shipped
+TW-1130,2025-01-27,Nakshi Kantha Throw,Throws,Canada,71,63.23,4489.33,Delivered
+TW-1128,2025-01-28,Seagrass Basket Set,Storage,United States,26,30.17,784.42,In Production
+TW-1042,2025-01-31,Jute Area Rug,Rugs,United States,59,48.15,2840.85,In Production
+TW-1020,2025-02-02,Macrame Wall Hanging,Wall Decor,United States,69,33.79,2331.51,Pending
+TW-1015,2025-02-03,Jute Area Rug,Rugs,Canada,82,54.01,4428.82,Delivered
+TW-1033,2025-02-04,Handwoven Cushion Cover,Cushions,Australia,19,14.74,280.06,Delivered
+TW-1075,2025-02-05,Block-Print Table Runner,Table Linen,Canada,89,18.23,1622.47,In Production
+TW-1112,2025-02-05,Seagrass Basket Set,Storage,Germany,11,31.36,344.96,In Production
+TW-1051,2025-02-07,Handwoven Cushion Cover,Cushions,United States,82,16.09,1319.38,Delivered
+TW-1060,2025-02-08,Block-Print Table Runner,Table Linen,Australia,79,17.23,1361.17,Delivered
+TW-1008,2025-02-10,Seagrass Basket Set,Storage,United States,90,30.06,2705.40,In Production
+TW-1010,2025-02-10,Jute Area Rug,Rugs,Australia,58,48.27,2799.66,Shipped
+TW-1101,2025-02-12,Block-Print Table Runner,Table Linen,United States,120,18.76,2251.20,Delivered
+TW-1027,2025-02-13,Block-Print Table Runner,Table Linen,United States,18,20.62,371.16,Delivered
+TW-1082,2025-02-17,Jute Area Rug,Rugs,Japan,38,53.34,2026.92,Delivered
+TW-1002,2025-02-22,Block-Print Table Runner,Table Linen,Japan,79,17.41,1375.39,Delivered
+TW-1129,2025-02-22,Handwoven Cushion Cover,Cushions,Germany,70,14.64,1024.80,Delivered
+TW-1055,2025-02-23,Jute Area Rug,Rugs,United Kingdom,23,52.73,1212.79,Delivered
+TW-1086,2025-02-24,Macrame Wall Hanging,Wall Decor,United Kingdom,112,36.53,4091.36,Delivered
+TW-1113,2025-02-24,Macrame Wall Hanging,Wall Decor,Canada,91,36.11,3286.01,Delivered
+TW-1038,2025-02-25,Jute Area Rug,Rugs,United Kingdom,78,49.91,3892.98,Delivered
+TW-1156,2025-02-28,Macrame Wall Hanging,Wall Decor,Canada,92,35.73,3287.16,Delivered
+TW-1111,2025-03-03,Seagrass Basket Set,Storage,Japan,54,29.58,1597.32,Shipped
+TW-1154,2025-03-04,Handwoven Cushion Cover,Cushions,Canada,87,15.54,1351.98,Shipped
+TW-1142,2025-03-05,Macrame Wall Hanging,Wall Decor,Japan,99,32.98,3265.02,Delivered
+TW-1028,2025-03-06,Jute Area Rug,Rugs,Germany,80,47.19,3775.20,Delivered
+TW-1159,2025-03-11,Handwoven Cushion Cover,Cushions,United Kingdom,111,15.69,1741.59,Delivered
+TW-1114,2025-03-20,Macrame Wall Hanging,Wall Decor,United Kingdom,76,36.58,2780.08,Delivered
+TW-1059,2025-03-24,Block-Print Table Runner,Table Linen,United States,100,18.64,1864.00,Delivered
+TW-1013,2025-03-25,Macrame Wall Hanging,Wall Decor,United States,91,34.80,3166.80,Delivered
+TW-1064,2025-03-25,Jute Area Rug,Rugs,Australia,13,47.32,615.16,Pending
+TW-1108,2025-03-25,Nakshi Kantha Throw,Throws,United Kingdom,13,73.83,959.79,Shipped
+TW-1141,2025-03-26,Nakshi Kantha Throw,Throws,Germany,115,69.15,7952.25,Delivered
+TW-1081,2025-03-28,Block-Print Table Runner,Table Linen,United Kingdom,75,19.49,1461.75,Shipped
+TW-1078,2025-03-31,Seagrass Basket Set,Storage,Germany,61,29.67,1809.87,Delivered
+TW-1153,2025-04-15,Nakshi Kantha Throw,Throws,Germany,46,67.45,3102.70,Shipped
+TW-1095,2025-04-16,Macrame Wall Hanging,Wall Decor,United States,108,34.14,3687.12,Shipped
+TW-1052,2025-04-20,Seagrass Basket Set,Storage,United Kingdom,54,31.53,1702.62,In Production
+TW-1094,2025-04-20,Handwoven Cushion Cover,Cushions,United States,52,14.82,770.64,Delivered
+TW-1032,2025-04-28,Seagrass Basket Set,Storage,United Kingdom,19,30.56,580.64,Delivered
+TW-1041,2025-05-02,Jute Area Rug,Rugs,United States,71,47.65,3383.15,Delivered
+TW-1050,2025-05-03,Nakshi Kantha Throw,Throws,United States,95,70.14,6663.30,Delivered
+TW-1085,2025-05-05,Jute Area Rug,Rugs,Germany,10,54.17,541.70,In Production
+TW-1122,2025-05-05,Nakshi Kantha Throw,Throws,Germany,57,67.90,3870.30,Delivered
+TW-1158,2025-05-05,Macrame Wall Hanging,Wall Decor,Germany,59,31.62,1865.58,Shipped
+TW-1116,2025-05-06,Handwoven Cushion Cover,Cushions,United Kingdom,67,13.98,936.66,Delivered
+TW-1017,2025-05-07,Block-Print Table Runner,Table Linen,Germany,43,19.79,850.97,Delivered
+TW-1124,2025-05-09,Jute Area Rug,Rugs,United Kingdom,34,48.63,1653.42,Shipped
+TW-1073,2025-05-11,Handwoven Cushion Cover,Cushions,Japan,10,14.76,147.60,In Production
+TW-1023,2025-05-15,Seagrass Basket Set,Storage,Japan,74,31.71,2346.54,In Production
+TW-1007,2025-05-16,Handwoven Cushion Cover,Cushions,Japan,78,13.65,1064.70,Pending
+TW-1057,2025-05-16,Seagrass Basket Set,Storage,United States,118,26.88,3171.84,Shipped
+TW-1071,2025-05-16,Handwoven Cushion Cover,Cushions,United Kingdom,65,14.27,927.55,In Production
+TW-1139,2025-05-16,Block-Print Table Runner,Table Linen,Germany,112,20.46,2291.52,Delivered
+TW-1058,2025-05-22,Handwoven Cushion Cover,Cushions,United Kingdom,108,13.67,1476.36,Pending
+TW-1039,2025-05-23,Macrame Wall Hanging,Wall Decor,United Kingdom,19,33.24,631.56,In Production
+TW-1069,2025-05-23,Nakshi Kantha Throw,Throws,Germany,61,70.58,4305.38,In Production
+TW-1103,2025-05-23,Macrame Wall Hanging,Wall Decor,United Kingdom,20,33.41,668.20,Shipped
+TW-1056,2025-05-25,Seagrass Basket Set,Storage,United Kingdom,53,27.74,1470.22,Shipped
+TW-1079,2025-05-27,Jute Area Rug,Rugs,United States,84,51.42,4319.28,Delivered
+TW-1157,2025-05-30,Seagrass Basket Set,Storage,Japan,63,31.27,1970.01,Pending
+TW-1024,2025-06-02,Block-Print Table Runner,Table Linen,United States,35,17.65,617.75,In Production
+TW-1076,2025-06-03,Seagrass Basket Set,Storage,United States,62,28.43,1762.66,Shipped
+TW-1030,2025-06-09,Macrame Wall Hanging,Wall Decor,Canada,93,32.79,3049.47,In Production
+TW-1155,2025-06-09,Seagrass Basket Set,Storage,United Kingdom,62,27.12,1681.44,Pending
+TW-1144,2025-06-15,Seagrass Basket Set,Storage,United Kingdom,21,27.88,585.48,Shipped
+TW-1014,2025-06-16,Handwoven Cushion Cover,Cushions,United Kingdom,14,15.55,217.70,Delivered
+TW-1070,2025-06-19,Handwoven Cushion Cover,Cushions,United Kingdom,43,13.80,593.40,Pending
+TW-1006,2025-06-22,Handwoven Cushion Cover,Cushions,United Kingdom,22,14.31,314.82,Delivered
+TW-1127,2025-07-04,Jute Area Rug,Rugs,United States,100,50.73,5073.00,Delivered
+TW-1026,2025-07-05,Nakshi Kantha Throw,Throws,United Kingdom,40,73.16,2926.40,Pending
+TW-1011,2025-07-06,Jute Area Rug,Rugs,United States,36,52.03,1873.08,Shipped
+TW-1107,2025-07-08,Jute Area Rug,Rugs,Germany,105,52.50,5512.50,In Production
+TW-1053,2025-07-09,Nakshi Kantha Throw,Throws,United Kingdom,116,68.81,7981.96,Delivered
+TW-1109,2025-07-12,Macrame Wall Hanging,Wall Decor,Canada,35,30.89,1081.15,Shipped
+TW-1102,2025-07-14,Nakshi Kantha Throw,Throws,United Kingdom,51,66.14,3373.14,In Production
+TW-1120,2025-07-28,Macrame Wall Hanging,Wall Decor,Germany,40,34.82,1392.80,Shipped
+TW-1137,2025-07-29,Macrame Wall Hanging,Wall Decor,Japan,70,32.26,2258.20,Delivered
+TW-1148,2025-07-29,Nakshi Kantha Throw,Throws,United States,23,72.90,1676.70,Delivered
+TW-1065,2025-07-30,Block-Print Table Runner,Table Linen,Australia,113,17.99,2032.87,Delivered
+TW-1084,2025-08-01,Block-Print Table Runner,Table Linen,Germany,101,19.61,1980.61,Delivered
+TW-1097,2025-08-03,Seagrass Basket Set,Storage,Japan,79,31.08,2455.32,In Production
+TW-1123,2025-08-06,Block-Print Table Runner,Table Linen,Germany,55,19.63,1079.65,Delivered
+TW-1072,2025-08-12,Seagrass Basket Set,Storage,Canada,24,28.76,690.24,Shipped
+TW-1092,2025-08-14,Handwoven Cushion Cover,Cushions,Japan,40,14.06,562.40,Delivered
+TW-1080,2025-08-15,Macrame Wall Hanging,Wall Decor,Japan,75,33.43,2507.25,Pending
+TW-1089,2025-08-15,Seagrass Basket Set,Storage,Australia,74,28.99,2145.26,Pending
+TW-1134,2025-08-15,Nakshi Kantha Throw,Throws,Australia,64,65.72,4206.08,Shipped
+TW-1090,2025-08-17,Jute Area Rug,Rugs,Japan,70,49.92,3494.40,In Production
+TW-1031,2025-08-20,Handwoven Cushion Cover,Cushions,United Kingdom,18,14.25,256.50,Shipped
+TW-1043,2025-08-21,Nakshi Kantha Throw,Throws,United States,103,74.69,7693.07,Shipped
+TW-1150,2025-08-21,Handwoven Cushion Cover,Cushions,United States,51,13.62,694.62,In Production
+TW-1067,2025-08-24,Nakshi Kantha Throw,Throws,United States,111,73.08,8111.88,Delivered
+TW-1088,2025-08-26,Block-Print Table Runner,Table Linen,Germany,81,19.24,1558.44,Pending
+TW-1035,2025-08-31,Jute Area Rug,Rugs,Japan,113,49.51,5594.63,Delivered
+TW-1106,2025-08-31,Block-Print Table Runner,Table Linen,United Kingdom,37,18.77,694.49,Delivered
+TW-1034,2025-09-06,Jute Area Rug,Rugs,Germany,102,54.58,5567.16,Shipped
+TW-1044,2025-09-07,Jute Area Rug,Rugs,United Kingdom,37,54.90,2031.30,Shipped
+TW-1098,2025-09-07,Jute Area Rug,Rugs,United Kingdom,72,45.88,3303.36,Delivered
+TW-1118,2025-09-07,Jute Area Rug,Rugs,United States,43,48.87,2101.41,In Production
+TW-1121,2025-09-09,Macrame Wall Hanging,Wall Decor,Australia,21,32.28,677.88,Delivered
+TW-1131,2025-09-09,Handwoven Cushion Cover,Cushions,Germany,97,13.45,1304.65,Delivered
+TW-1160,2025-09-17,Nakshi Kantha Throw,Throws,Australia,46,71.19,3274.74,In Production
+TW-1151,2025-09-21,Handwoven Cushion Cover,Cushions,Germany,79,14.59,1152.61,Delivered
+TW-1152,2025-09-23,Nakshi Kantha Throw,Throws,Germany,73,69.88,5101.24,In Production
+TW-1126,2025-09-26,Seagrass Basket Set,Storage,United States,22,31.26,687.72,Delivered
+TW-1046,2025-09-29,Jute Area Rug,Rugs,United Kingdom,75,46.37,3477.75,Delivered
+TW-1115,2025-10-03,Macrame Wall Hanging,Wall Decor,United States,115,35.08,4034.20,Delivered
+TW-1025,2025-10-04,Seagrass Basket Set,Storage,Canada,86,28.42,2444.12,Delivered
+TW-1093,2025-10-04,Handwoven Cushion Cover,Cushions,United Kingdom,39,14.37,560.43,Delivered
+TW-1143,2025-10-04,Macrame Wall Hanging,Wall Decor,United States,86,30.66,2636.76,Delivered
+TW-1045,2025-10-05,Handwoven Cushion Cover,Cushions,Japan,17,13.44,228.48,Delivered
+TW-1140,2025-10-06,Jute Area Rug,Rugs,Germany,44,53.54,2355.76,Delivered
+TW-1040,2025-10-09,Handwoven Cushion Cover,Cushions,United Kingdom,79,15.64,1235.56,Pending
+TW-1061,2025-10-10,Jute Area Rug,Rugs,United States,15,48.56,728.40,In Production
+TW-1077,2025-10-11,Jute Area Rug,Rugs,United Kingdom,95,54.63,5189.85,Shipped
+TW-1063,2025-10-14,Macrame Wall Hanging,Wall Decor,Canada,105,31.39,3295.95,Pending
+TW-1132,2025-10-16,Nakshi Kantha Throw,Throws,United Kingdom,41,63.29,2594.89,In Production
+TW-1048,2025-10-19,Jute Area Rug,Rugs,Germany,15,51.55,773.25,Delivered
+TW-1096,2025-10-22,Macrame Wall Hanging,Wall Decor,United States,55,32.31,1777.05,Delivered
+TW-1145,2025-10-22,Seagrass Basket Set,Storage,Canada,107,30.36,3248.52,Delivered
+TW-1009,2025-10-23,Jute Area Rug,Rugs,Japan,15,51.95,779.25,In Production
+TW-1018,2025-10-26,Macrame Wall Hanging,Wall Decor,United States,27,33.66,908.82,Delivered
+TW-1049,2025-10-26,Seagrass Basket Set,Storage,Germany,43,27.74,1192.82,Shipped
+TW-1147,2025-10-27,Macrame Wall Hanging,Wall Decor,Germany,72,36.60,2635.20,Delivered
+TW-1047,2025-11-01,Handwoven Cushion Cover,Cushions,Japan,40,14.43,577.20,Pending
+TW-1029,2025-11-07,Macrame Wall Hanging,Wall Decor,Canada,79,35.23,2783.17,Shipped
+TW-1133,2025-11-07,Seagrass Basket Set,Storage,Australia,38,30.94,1175.72,Delivered
+TW-1117,2025-11-09,Block-Print Table Runner,Table Linen,United States,13,18.88,245.44,Delivered
+TW-1135,2025-11-09,Block-Print Table Runner,Table Linen,United Kingdom,107,17.85,1909.95,Delivered
+TW-1100,2025-11-15,Seagrass Basket Set,Storage,United Kingdom,60,29.91,1794.60,Shipped
+TW-1110,2025-11-18,Jute Area Rug,Rugs,United Kingdom,108,48.50,5238.00,Shipped
+TW-1091,2025-11-23,Nakshi Kantha Throw,Throws,Japan,76,68.05,5171.80,Delivered
+TW-1001,2025-11-24,Handwoven Cushion Cover,Cushions,United Kingdom,45,13.99,629.55,Delivered
+TW-1022,2025-11-25,Nakshi Kantha Throw,Throws,United Kingdom,65,63.81,4147.65,Delivered
+TW-1004,2025-11-29,Block-Print Table Runner,Table Linen,Germany,38,18.72,711.36,Delivered
+TW-1054,2025-12-01,Seagrass Basket Set,Storage,United Kingdom,114,29.71,3386.94,Pending
+TW-1016,2025-12-02,Macrame Wall Hanging,Wall Decor,United States,92,33.34,3067.28,Delivered
+TW-1036,2025-12-04,Macrame Wall Hanging,Wall Decor,United States,62,33.39,2070.18,Shipped
+TW-1068,2025-12-04,Jute Area Rug,Rugs,United States,45,53.90,2425.50,Pending
+TW-1136,2025-12-05,Handwoven Cushion Cover,Cushions,United Kingdom,32,14.85,475.20,Delivered
+TW-1037,2025-12-11,Block-Print Table Runner,Table Linen,Canada,22,17.32,381.04,Shipped
+TW-1099,2025-12-14,Macrame Wall Hanging,Wall Decor,Japan,117,33.39,3906.63,Delivered
+TW-1012,2025-12-16,Block-Print Table Runner,Table Linen,United Kingdom,91,17.72,1612.52,Shipped
+TW-1074,2025-12-18,Block-Print Table Runner,Table Linen,Canada,104,19.51,2029.04,Delivered
+TW-1125,2025-12-20,Jute Area Rug,Rugs,United Kingdom,104,50.25,5226.00,Shipped
+TW-1149,2025-12-22,Macrame Wall Hanging,Wall Decor,United States,61,35.61,2172.21,Shipped
+TW-1066,2025-12-26,Handwoven Cushion Cover,Cushions,United States,14,15.70,219.80,Delivered
+TW-1119,2025-12-26,Nakshi Kantha Throw,Throws,Germany,76,74.07,5629.32,Delivered
+TW-1138,2025-12-28,Nakshi Kantha Throw,Throws,Japan,68,62.68,4262.24,Delivered
